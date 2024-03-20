@@ -1,1 +1,1 @@
-from storage import DatabaseManager
+from .storage import DatabaseManager
